@@ -1,4 +1,5 @@
-	<header>
+$("document").ready(function() {
+	$("#global").html(`<header id="header">
 		<div id="logo">Bem-vindo</div>
 		<nav id="nav-bar">
 			<ul class="clearfix">
@@ -15,4 +16,7 @@
 		
 		</section>
 		
-	</header>
+	</header>`);
+	
+	$("footer").html("Trabalho de Tópicos Especiais, por Júlio César R. de Oliveirra");
+});
