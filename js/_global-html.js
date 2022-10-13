@@ -11,12 +11,11 @@ $("document").ready(function() {
 				<li class="clearfix"><a href="*">TypeScript</a></li>
 			</ul>
 		</nav>
-		
-		<section id="content">
-		
-		</section>
-		
-	</header>`);
+	</header>
 	
-	$("footer").html("Trabalho de Tópicos Especiais, por Júlio César R. de Oliveirra");
+	<section id="content">
+		
+	</section>`);
+	
+	$("footer").html("Trabalho de Tópicos Especiais, por Júlio César Rodrigues de Oliveira");
 });
