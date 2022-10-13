@@ -4,9 +4,10 @@ body {
 	background-attachment: fixed;
 }
 
-.clearfix {
-	display: table;
-	content: "";
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 #global {
@@ -24,11 +25,12 @@ body {
 	font-size: 36px;
 	text-transform: uppercase;
 	font-weight: bold;
+	letter-spacing: 2px;
 	background: #4374e6;
 	margin: 15px 20px;
 	text-align: center;
 	padding: 15px 0px;
-	width: 700px;
+	width: 730px;
 }
 
 #nav-bar {
@@ -49,6 +51,7 @@ body {
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 18px;	
+	display: block;
 	transition: all 250ms;
 }
 
@@ -64,10 +67,29 @@ body {
 	padding: 12px 12px;
 }
 
+#content {
+	margin: 0px 20px;
+	text-align: justify;
+	letter-spacing: 1px;
+}
+
+#content aside {
+	float: right;
+	width: 25%;
+	padding-top: 25px;
+}
+
+#principal {
+	float: left;
+	width: 70%;
+}
+
+
+
+
 #temp-content {
 	display: none;
 }
-
 
 footer{
 	color: #ffd;
