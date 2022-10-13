@@ -1,14 +1,14 @@
 $("document").ready(function() {
 	$("#global").html(`<header id="header">
-		<div id="logo">Bem-vindo</div>
+		<div id="logo">Trabalho de Tópicos Especiais</div>
 		<nav id="nav-bar">
 			<ul class="clearfix">
-				<li><a href="index.html">Página inicial</a></li>
-				<li><a href="*">html</a></li>
-				<li><a href="*">css</a></li>
-				<li><a href="*">JavaScript</a></li>
-				<li><a href="*">JQuery</a></li>
-				<li><a href="*">TypeScript</a></li>
+				<li class="clearfix"><a href="index.html">Página inicial</a></li>
+				<li class="clearfix"><a href="*">html</a></li>
+				<li class="clearfix"><a href="*">css</a></li>
+				<li class="clearfix"><a href="*">JavaScript</a></li>
+				<li class="clearfix"><a href="*">JQuery</a></li>
+				<li class="clearfix"><a href="*">TypeScript</a></li>
 			</ul>
 		</nav>
 		

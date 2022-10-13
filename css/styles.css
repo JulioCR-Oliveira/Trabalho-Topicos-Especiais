@@ -1,0 +1,61 @@
+body {
+	font-family: "verdanna", "arial";
+	background: url("../img/fundo-azul.jpg");
+	background-attachment: fixed;
+}
+
+.clearfix {
+	display: table;
+	content: "";
+}
+
+#global {
+	padding: 20px;
+	margin: 40px auto 30px;
+	background: #eef;
+	border: 1px solid #bbb;
+	box-shadow: 1px 1px black;
+	border-radius: 12px;
+	height: 80%;
+	width: 70%;
+}
+
+#logo {
+	font-size: 36px;
+	text-transform: uppercase;
+	font-weight: bold;
+	background: #4374e6;
+	margin: 15px 20px;
+	text-align: center;
+	padding: 15px 0px;
+	width: 700px;
+}
+
+#nav-bar {
+	background: #5783eb;
+	margin: 0px 20px;
+}
+
+#nav-bar ul {
+	padding: 0px 25px;
+}
+
+#nav-bar ul li {
+	float: left;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;	
+	transition: all 250ms;
+}
+
+#nav-bar ul li:hover {
+	background: #4374e6;
+}
+
+#nav-bar a {
+	display: block;
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+	padding: 12px 12px;
+}
