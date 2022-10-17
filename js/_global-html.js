@@ -30,23 +30,26 @@ $("document").ready(function() {
 function createAside() {
 	return `
 		<aside>
-			<h3>Tópicos</h3>
-			<p>Tópico 1</p>
-			<p>Tópico 2</p>
-			<p>Tópico 3</p>
-			<p>Tópico 4</p>
-			<p>Tópico 5</p>
-			<p>Tópico 6</p>
-			<p>Tópico 7</p>
-			
-			<h3>Tópicos</h3>
-			<p>Tópico 1</p>
-			<p>Tópico 2</p>
-			<p>Tópico 3</p>
-			<p>Tópico 4</p>
-			<p>Tópico 5</p>
-			<p>Tópico 6</p>
-			<p>Tópico 7</p>
+			<div class="topico">
+				<h3>Tópicos</h3>
+				<p>Tópico 1</p>
+				<p>Tópico 2</p>
+				<p>Tópico 3</p>
+				<p>Tópico 4</p>
+				<p>Tópico 5</p>
+				<p>Tópico 6</p>
+				<p>Tópico 7</p>
+			</div>
+			<div class="topico">
+				<h3>Tópicos</h3>
+				<p>Tópico 1</p>
+				<p>Tópico 2</p>
+				<p>Tópico 3</p>
+				<p>Tópico 4</p>
+				<p>Tópico 5</p>
+				<p>Tópico 6</p>
+				<p>Tópico 7</p>
+			</div>
 		</aside>
 	`;
 };
