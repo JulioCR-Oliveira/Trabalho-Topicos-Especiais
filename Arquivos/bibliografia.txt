@@ -1,0 +1,6 @@
+https://developer.mozilla.org/pt-BR/docs/Web/html
+https://www.homehost.com.br/blog/tutoriais/tags-html/
+https://developer.mozilla.org/pt-BR/docs/Web/CSS
+https://www.infoescola.com/informatica/cascading-style-sheets-css/
+https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript
+https://shipit.resultadosdigitais.com.br/blog/javascript-1-uma-breve-historia-da-linguagem/
