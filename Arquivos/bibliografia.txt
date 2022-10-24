@@ -4,3 +4,6 @@ https://developer.mozilla.org/pt-BR/docs/Web/CSS
 https://www.infoescola.com/informatica/cascading-style-sheets-css/
 https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript
 https://shipit.resultadosdigitais.com.br/blog/javascript-1-uma-breve-historia-da-linguagem/
+https://api.jquery.com/
+https://trends.builtwith.com/javascript/jQuery
+https://pt.wikipedia.org/wiki/JQuery
