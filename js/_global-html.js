@@ -7,7 +7,7 @@ $("document").ready(function() {
 				<li><a href="*">html</a></li>
 				<li><a href="*">css</a></li>
 				<li><a href="*">JavaScript</a></li>
-				<li><a href="*">JQuery</a></li>
+				<li><a href="jquery-css.html">JQuery</a></li>
 				<li><a href="*">TypeScript</a></li>
 			</ul>
 		</nav>

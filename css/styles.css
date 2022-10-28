@@ -102,3 +102,17 @@ footer{
 	margin-top: 50px;
 	line-height: 47px;
 }
+
+#css-js, #css-js-ideal, #css-jquery {
+	float: left;
+	margin-top: 30px;
+	padding: 20px;
+	margin: 20px;
+	background: lightblue;
+	border: 1px solid #bbb;
+	box-shadow: 1px 1px black;
+	border-radius: 8px;
+	width: 200px;
+	height: 50px;
+	text-align: center;
+}
