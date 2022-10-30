@@ -1,5 +1,7 @@
 https://developer.mozilla.org/pt-BR/docs/Web/html
 https://www.homehost.com.br/blog/tutoriais/tags-html/
+https://www.infoescola.com/informatica/html/
+https://www.homehost.com.br/blog/tutoriais/o-que-e-html/
 https://developer.mozilla.org/pt-BR/docs/Web/CSS
 https://www.infoescola.com/informatica/cascading-style-sheets-css/
 https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript
