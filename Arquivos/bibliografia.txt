@@ -14,3 +14,5 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
 https://www.tutorialsteacher.com/jquery/jquery-animation
 https://www.cleverism.com/skills-and-tools/typescript/
 https://www.remessaonline.com.br/blog/typescript-descubra-como-funciona-e-quais-os-principais-usos/amp/?utm_id=8625638102&matchtype=&placement=&adgroupid=87163560379&loc_interest_ms=&loc_physical_ms=1031624&network=g&target=&adposition=&utm_term=&utm_source=google&utm_medium=cpc&utm_campaign=RM_Search_Desk_DSA_Blog_PF&utm_content=612709676527&hsa_net=adwords&hsa_grp=87163560379&hsa_mt=&hsa_tgt=dsa-713029957580&hsa_kw=&hsa_src=g&hsa_acc=4754839251&hsa_cam=8625638102&hsa_ver=3&hsa_ad=612709676527&gclid=CjwKCAjw2OiaBhBSEiwAh2ZSP29k6hjHswKsGB1-UwB7XVtLShqjMXi1r9-aDEv-jbLICoXlHwnHmBoCrDUQAvD_BwE
+https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css
+https://www.w3c.br/divulgacao/guiasreferencia/css2/
