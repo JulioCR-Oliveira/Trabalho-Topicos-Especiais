@@ -1,5 +1,5 @@
 body {
-	font-family: "verdanna", "arial";
+	font-family: "verdana", "arial";
 	background: url("../img/fundo-azul.jpg");
 	background-attachment: fixed;
 }
@@ -115,4 +115,12 @@ footer{
 	width: 200px;
 	height: 50px;
 	text-align: center;
+}
+
+span {
+  background-color: aqua;
+}
+
+div > span {
+  background-color: yellow;
 }
